@@ -1,10 +1,11 @@
-# Bài tập thực hành - Restaurant App(Login)
+# Bài tập thực hành - Restaurant App(Login) Kết hợp Stack nativagion + bottom navigation + Context API 
 
 ## Thông tin sinh viên
 - **Họ và tên:** Tăng Thành Đạt  
 - **Mã sinh viên:** 23810310311  
 
 ## Mô tả
+- Kết hợp Stack nativagion + bottom navigation + Context API 
 - Cập nhật ứng dụng Restaurant chức năng login và tìm kiếm sản phẩm
 
 ## Kết quả
